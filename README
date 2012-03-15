@@ -1,0 +1,7 @@
+i will be dealing with the kinematic model of the arm 
+using x, y and z co-ordinates. this modle will be calculated 
+using a graphic representation of inverse kinematics. 
+
+for verification and testing of this model, a simulation of the arm 
+will be setup. this can be compared to the real arm model for verification.
+
